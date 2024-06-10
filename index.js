@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing /help","|Notify Nook"];
+const statusMessages = ["PLAYING /HELP | NOTIFY NOOK","TYCOON CLUB! GIVEAWAYS & TRADING"];
 
 
 let currentIndex = 0;
